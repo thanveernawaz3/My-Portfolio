@@ -55,3 +55,55 @@
     color: black;
 }
 
+.container {
+    background-color: black;
+    height: 90vh;
+}
+.card-body {
+    height: 200px;
+}
+.icon {
+    color:blueviolet;
+    background-color: cornflowerblue;
+    margin-left: 100px;
+    width: 27%;
+    height: 20mm;
+    border-radius: 50%;
+    padding-top: 4mm;
+    padding-left: 8px;
+}
+.card-body {
+    text-align: center;
+}
+.mb-3 {
+    margin-left:150px;
+    margin-right: 100px;
+    float: left;
+}
+.container {
+    height:100hv;
+    background-color: black;
+}
+h3 {
+    color: blanchedalmond;
+}
+.contact {
+    float: right;
+    color: rgb(117, 107, 107);
+    margin-right: 150px;
+}
+.form-control {
+    tab-size: 200px;
+}
+.contact >h5 {
+    color: rgb(183, 236, 130);
+}
+.card-body >h3 {
+    color: black;
+}
+.mb-3 >button {
+    border-radius: 30px;
+}
+.form-control input {
+    width: 300px;
+}
